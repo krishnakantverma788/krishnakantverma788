@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishnakantverma788
+- 👋 Hi, I’m Krishnakant Verma
 - 👀 I’m interested in Python Programming Language, Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python Projects
